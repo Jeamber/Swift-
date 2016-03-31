@@ -26,4 +26,3 @@ func twoSum(nums: [int], _ target: int) -> [int] {
 		}
 	}
 }
-//先跑通，再看解法
